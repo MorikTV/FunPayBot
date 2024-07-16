@@ -1,0 +1,6 @@
+-- Получите golden_key из cookie FunPay. Вы можете использовать расширение Edit This Cookie.
+-- https://chromewebstore.google.com/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg
+GOLDEN_KEY:
+
+-- можно оставить пустым либо вставтье user-agent своего браузера
+USER_AGENT:
